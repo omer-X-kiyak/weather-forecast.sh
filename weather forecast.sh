@@ -1,0 +1,1 @@
+curl wttr.in/~(ENTER THE DESIRED CITY HERE.  /BURAYA İSTEDİGİNİZ ŞEHİRİ YAZN.)
